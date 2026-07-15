@@ -1,17 +1,17 @@
 const works = [
   {
-    title: "制作物1",
-    description: "制作物の説明",
-    image: "images/work1_dummy.png",
-    site: "#",
-    github: "#"
+    title: "Code Jump 入門編",
+    description: "Code Jump 入門編の模写サイト",
+    image: "images/mainvisual.jpg",
+    site: "https://token23233.github.io/token23233-cj01.github.io/",
+    github: "https://github.com/token23233/token23233-cj01.github.io"
   },
   {
-    title: "制作物2",
-    description: "制作物の説明",
-    image: "images/work2_dummy.png",
-    site: "#",
-    github: "#"
+    title: "Code Jump 初級編",
+    description: "Code Jump 初級編の模写サイト",
+    image: "images/mainvisual-pc.jpg",
+    site: "https://token23233.github.io/cj02.github.io/",
+    github: "https://github.com/token23233/cj02.github.io"
   }
 ];
 
